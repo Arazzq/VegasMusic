@@ -16,3 +16,7 @@ wget
 ffmpeg-python
 Pillow==9.1.0
 ujson
+yt-dlp
+yt_dlp
+
+# Baykaos
