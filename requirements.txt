@@ -1,5 +1,5 @@
-pyrogram==1.3.6
-py-tgcalls==0.8.3
+pyrogram==1.4.9
+py-tgcalls==0.8.6
 TgCrypto
 python-dotenv
 youtube_dl
