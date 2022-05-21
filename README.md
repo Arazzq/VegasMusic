@@ -7,7 +7,7 @@
 
 <h3>Sürümler 📮</h3>
 
-- pyrogram  1.3.6
+- pyrogram Set according to your request
 
 <h3>Yeni Eklenen 💡</h3>
 
