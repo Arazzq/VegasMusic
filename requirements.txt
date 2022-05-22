@@ -1,4 +1,4 @@
-pyrogram==1.4.9
+pyrogram==1.4.12
 py-tgcalls==0.8.6
 TgCrypto
 python-dotenv
@@ -7,7 +7,7 @@ youtube_search_python
 requests
 aiohttp
 aiofiles
-asyncio
+asyncio==3.4.3
 youtube_search
 python-arq
 search_engine_parser
