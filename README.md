@@ -42,3 +42,6 @@
 - Hatalar giderildi. Halen dimdik çalışmakta olan sade bir yazılım Müzik botudur. 
 
 - Okteto ile value şeklinde appjson 👉 Bilgilerini doldurun.. Otomatik kurulum yapar. 
+
+### Bu projeye yardım eden. 
+- [Bir_Beyfendi](https://github.com/BirBeyfendi): Geliştirici / 🥳
