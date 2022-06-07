@@ -45,3 +45,4 @@
 
 ### Bu projeye yardım eden. 
 - [Bir_Beyfendi](https://github.com/BirBeyfendi): Geliştirici / 🥳
+- [Telegram](https://t.me/Bir_Beyfendi)
